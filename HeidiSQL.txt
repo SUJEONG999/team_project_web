@@ -1,0 +1,10 @@
+000initial 지우기
+python manage.py makemigrations
+python manage.py migrate --fake projectapp zero
+000initial 다시 지우고
+python manage.py makemigrations
+python manage.py migrate
+하이디SQL 가서 csv 파일 가져오기
+
+
+<span style=" if(goo[1][6] ==max){color : red;} else {color : blue;}">+goo[1][6]+ '명</span></div>
