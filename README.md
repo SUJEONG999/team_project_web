@@ -89,3 +89,5 @@
 2021.02.19
 
 - 팀프로젝트 발표
+- http://codeplz4.pythonanywhere.com/main/
+ ( https://github.com/Yoon-Sangwon/webproject 참고 )
